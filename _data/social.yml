@@ -1,0 +1,12 @@
+- title: Email
+  url: mailto://brecn@naver.com
+  icon: fas fa-envelope
+#- title: Twitter
+#  url: https://twitter.com/vszhub
+#  icon: fab fa-twitter
+- title: Instagram
+  url: https://www.instagram.com/ctex_plorer/
+  icon: fab fa-instagram
+- title: GitHub
+  url: https://github.com/snubrecn
+  icon: fab fa-github
